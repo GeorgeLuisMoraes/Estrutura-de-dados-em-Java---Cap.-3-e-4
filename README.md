@@ -1,1 +1,3 @@
-# Estrutura-de-dados-em-Java---Cap.-3-e-4
+# Estrutura de dados em Java
+
+Resolução dos exercícios propostos dos capítulos 3 e 4 do livro.
