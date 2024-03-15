@@ -128,11 +128,3 @@ class Exercicio8 {
         System.out.println("\n");
     }
 }
-
-
-
-
-
-
-Exercícios da 4
-
